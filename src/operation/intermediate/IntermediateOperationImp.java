@@ -1,3 +1,5 @@
+package operation.intermediate;
+
 import java.util.Collection;
 
 public class IntermediateOperationImp<T> implements IntermediateOperation<T> {
